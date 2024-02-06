@@ -21,7 +21,7 @@ Figma: [https://www.figma.com](https://www.figma.com/signup?locale=tr)
 Github: [https://github.com/](https://github.com/)
 
 
-### 2 - WSL2 ile nodejs, npm, Visual Studio code ve git kuralım
+### 2 - WSL2 ile nodejs, npm, Visual Studio Code ve git kuralım
 
 Linki birlikte takip edeceğiz(İngilizce): [https://learn.microsoft.com/tr-tr/windows/dev-environment/javascript/nodejs-on-wsl](https://learn.microsoft.com/tr-tr/windows/dev-environment/javascript/nodejs-on-wsl)
 
